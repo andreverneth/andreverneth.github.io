@@ -1249,6 +1249,7 @@ html{
 	box-sizing: border-box;
 	text-align: center;
 	transition: all .5s;
+	z-index:100;	
 	}
 	.menu li {
 	display: block;
